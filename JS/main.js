@@ -19,6 +19,7 @@ for (let i = numberN; i <= numberM; i++) {
       sum=sum+i;
     }
 }
+
 console.log(sum);
    
 
